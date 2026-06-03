@@ -1,2 +1,19 @@
-title
-style
+attributes:
+    title
+    style <tagname style="property:value;">
+        color
+        font-family
+        font-size
+        text-align
+        background-color
+paragraphs
+    HTML paragraphs always starts on a new line.
+
+HTML Horizontal Rules
+HTML Line Breaks
+The Poem Problem <pre>
+
+<p>	    Defines a paragraph
+<hr>	Defines a thematic change in the content
+<br>	Inserts a single line break
+<pre>	Defines pre-formatted text

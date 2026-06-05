@@ -1,3 +1,7 @@
+HTML Text Formatting
+bold
+Italic
+
 HTML Formatting Elements
 Formatting elements were designed to display special types of text:
 
@@ -15,3 +19,8 @@ Formatting elements were designed to display special types of text:
 HTML elements makes the text bold
 Add extra importance to the word <strong>
 Emphasize the word
+----
+style="background-image:url('MainAfter.webp');"
+<blockquote cite="https://en.wikipedia.org/wiki/HTML">
+HTML is the standard markup language for Web pages.
+</blockquote>

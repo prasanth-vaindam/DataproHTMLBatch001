@@ -1,0 +1,17 @@
+universal selectors
+multiple class attributes
+
+class and id
+
+Why Use Classes?
+Reuse styles
+Apply the same style to many elements
+Make code easier to maintain
+
+Why Use IDs?
+Identify a specific element
+Apply unique styling
+Useful in JavaScript
+
+block vs inline
+span

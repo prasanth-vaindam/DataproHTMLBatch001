@@ -1,5 +1,7 @@
+
 universal selectors
 multiple class attributes
+
 
 class and id
 
@@ -12,6 +14,46 @@ Why Use IDs?
 Identify a specific element
 Apply unique styling
 Useful in JavaScript
+
+
+html tags
+HTML Links - Use an Image as a Link
+Absolute URLs vs. Relative URLs
+Button as a Link
+{
+    <button onclick="document.location='default.asp'">HTML Tutorial</button>
+}
+Link to an Email Address 
+{
+    Use mailto: inside the href attribute to create a link that opens the user's email program (to let them send a new email)
+}
+Chapter Summary
+{
+    Use the <a> element to define a link
+    Use the href attribute to define the link address
+    Use the target attribute to define where to open the linked document
+    Use the <img> element (inside <a>) to use an image as a link
+    Use the mailto: scheme inside the href attribute to create a link that opens the user's email program
+}
+
+HTML Link Colors
+By default, a link will appear like this (in all browsers):
+
+An unvisited link is underlined and blue
+A visited link is underlined and purple
+An active link is underlined and red
+
+pusedo selectors {
+    a:link
+a:visited
+a:hover
+a:active
+}
+
+
+Create a Bookmark in HTML
+
+
 
 block vs inline
 span

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .box{
+            width: 100px;
+            background-color: yellow;
+            border-bottom: 2px solid blue;
+            /* transform: rotate(45deg) ; */
+            margin: auto;
+            margin-top: 100px;
+            transition: transform 0.5s;
+            /* animation: rotate 0.3ms  delay iteration-count direction fill-mode; */
+        }
+        .box:hover{
+            /* transform: rotate(360deg); */
+            animation: spin 1s linear infinite;
+        }
+        @keyframes spin {
+            form {
+                transform: rotate(0deg);                
+            }
+            to{
+                transform:rotate(360deg);
+            }
+        }
+        
+        p{
+            text-align: center;
+            border-bottom: 3px solid black 10px;
+        }
+    </style>
+</head>
+<body>
+    
+    <div class="box">
+        <p>This is a para</p>
+    </div>
+</body>
+</html>

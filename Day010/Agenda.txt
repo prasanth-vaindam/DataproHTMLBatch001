@@ -1,0 +1,6 @@
+Block vs Inline
+https://www.w3schools.com/html/html_blocks.asp
+
+Div
+div is a block level element
+Center align a <div> element

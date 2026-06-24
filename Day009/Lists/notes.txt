@@ -1,0 +1,14 @@
+Tag	Purpose
+<ol>	Ordered List
+<ul>	Unordered List
+<li>	List Item
+<dl>	Description List
+<dt>	Description Term
+<dd>	Description Description
+
+list-style-type Values
+Value	Symbol
+disc	●
+circle	○
+square	■
+none	No Bullet

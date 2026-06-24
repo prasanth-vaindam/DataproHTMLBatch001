@@ -1,0 +1,32 @@
+HTML Tables
+HTML tables allow web developers to arrange data into rows and columns.
+Define an HTML Table
+How To Add a Border
+Collapsed Table Borders
+Style Table Borders
+{
+    If you set a background color of each cell, and give the border a white color (the same as the document background), you get the impression of an invisible border:
+}
+Round Table Borders
+table, th, td {
+  border: 1px solid black;
+  border-radius: 10px;
+}
+border-style {
+    With the border-style property, you can set the appearance of the border.
+    dotted     
+dashed     
+solid     
+double     
+groove     
+ridge     
+inset     
+outset     
+none     
+hidden 
+}
+
+border-color
+
+th style="width:70%"
+tr style="height:200px"

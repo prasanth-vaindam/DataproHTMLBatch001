@@ -1,2 +1,0 @@
-<link rel="stylesheet" href="mystyle.css">
-An external style sheet can be written in any text editor, and must be saved with a .css extension.
